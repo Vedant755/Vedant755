@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vedant Angane
-- 👀 I’m interested in Data Science
+- 👀 I’m an Enthusiast in Android, Open Source and Devrel.
 - 🌱 I’m currently learning Machine Learning from past a month.
 - 💞️ I’m looking to collaborate on anything which is related to python
 - 📫 How to reach me twitter: https://twitter.com/VedantAngane2
