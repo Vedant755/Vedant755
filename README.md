@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Vedant Angane
-- 👀 I’m an Enthusiast in Android, Open Source and Devrel.
-- 🌱 I’m currently learning Machine Learning from past a month.
-- 💞️ I’m looking to collaborate on anything which is related to python
-- 📫 How to reach me twitter: https://twitter.com/VedantAngane2
+<h1 align="center">Hi 👋, I'm Vedant Angane</h1>
+<h3 align="center">A passionate and enthusiastic Android Developer from India</h3>
 
-<!---
-Vedant755/Vedant755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant755&label=Profile%20views&color=0e75b6&style=flat" alt="vedant755" /> </p>
+
+<p align="left"> <a href="https://twitter.com/vedantangane2" target="blank"><img src="https://img.shields.io/twitter/follow/vedantangane2?logo=twitter&style=for-the-badge" alt="vedantangane2" /></a> </p>
+
+- 📫 How to reach me **vedantangane755@gmail.com**
+
+- ⚡ Fun fact **I think I am good at Maths more often.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/vedant755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vedant755" height="30" width="40" /></a>
+<a href="https://twitter.com/vedantangane2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantangane2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vedant angane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant angane" height="30" width="40" /></a>
+<a href="https://instagram.com/vedantsig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedantsig" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vedant755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant755" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant755&show_icons=true&locale=en&layout=compact" alt="vedant755" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant755&show_icons=true&locale=en" alt="vedant755" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant755&" alt="vedant755" /></p>
